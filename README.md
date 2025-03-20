@@ -13,6 +13,15 @@ The dataset includes comprehensive applicant information with the following colu
 **Credit and Loan History:** Credit score, previous loan history, and loan repayment status.
 
 
+# Project Goals
+
+**Understand Key Influences:** Identify the primary factors that impact the approval of loan amounts exceeding ₹10 Lakh.
+
+**Visualize Insights:** Develop interactive Power BI dashboards to analyze loan patterns and applicant profiles.
+
+**Enhance Loan Approval Strategies:** Provide actionable recommendations to improve decision-making and reduce risks associated with high-value loans.
+
+
  # Key Insights from the Analysis
 
 **1. Loan Amount vs Income:**
