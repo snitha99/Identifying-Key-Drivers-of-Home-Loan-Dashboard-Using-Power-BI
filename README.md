@@ -63,6 +63,8 @@ The dataset includes comprehensive applicant information with the following colu
 
 The data was visualized through Power BI dashboards to explore:
 
+[Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=a49f48ec-834f-4be1-a4a0-db070c355f85&autoAuth=true&ctid=b0dffc1b-b339-4959-a650-736db86c1043)
+
 - Distribution of loan amounts and approval rates.
   
 - Correlation between income, credit score, and approved loan amounts.
